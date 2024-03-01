@@ -1,0 +1,11 @@
+plasmodiumGenomes.tar 
+1_genome_files/   
+2_gtf_files/
+3_Ht_data/
+4_blast/
+5_contigs_wo_birds/
+6_final_gene_pred/
+7_genepredictions/
+8_proteinortho/
+9_busco/
+10_orthologs/ 
